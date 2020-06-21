@@ -52,6 +52,7 @@ print('Field names are:' + ', '.join(field for field in fields))
 #  printing first 5 rows 
 sip_amount = 1000.0
 units = 0.0
+#Un Comment these lines to calculate custom
 # year  = int(input("\nEnter Year to start from\n")) 
 # month = int(input("\nMonth \n"))
 
